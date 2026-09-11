@@ -1,4 +1,4 @@
-his repository contains the full Infrastructure-as-Code (IaC), automation scripts, and step-by-step configuration guides for a production-ready enterprise hybrid IT lab environment.
+This repository contains the full Infrastructure-as-Code (IaC), automation scripts, and step-by-step configuration guides for a production-ready enterprise hybrid IT lab environment.
 
 ## Architecture Highlights
 - **Identity & Access Management:** Automated Active Directory provisioning of users, OUs, and security groups via PowerShell.
